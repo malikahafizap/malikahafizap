@@ -1,4 +1,8 @@
-<h1 align="center">Hello there,<img src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/WavingHand.gif" width="50px" height="50"> I'm Malika:woman_technologist:</h1>
+<div id="header" align="left">
+  <img src="https://komarev.com/ghpvc/?username=malikahafizap&style=for-the-badge&color=blue" alt=""/>
+</div>
+
+<h1 align="center">Hello there,<img src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/WavingHand.gif" width="50px" height="50"> I'm Malika :woman_technologist:</h1>
 
 <p align="center">___________________________________________________________________</p>
 
@@ -9,7 +13,7 @@
 <p align="center">___________________________________________________________________</p>
 
 <h2 align="left">:sunglasses: Insights about me</h2>
-<img  src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/Technologist.gif" height="290px" align="right" />
+<img  src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/WomenTechnologist.jpg" height="320px" align="left" />
 
 - 🔭 I’m currently working on [News Based Sentiment Analysis for Stock Investment Project](https://www.youtube.com/watch?v=bN2dT0JLHZ8)
 
@@ -69,38 +73,35 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;&nbsp;
 </p>
 
-### Languages:
+<h2 align="left"> 💻 Languages, Technologies and Tools</h2>
+
 | Python3 | C | JS | Solidity | GO | Pytorch | Selenium | Numpy | Pandas | Sklearn | Matplotlib | OpenCV |
 |----------|----------|----------|-----|-----|----------|----------|----------|----------|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Solidity" alt="Solidity" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
 
  
 
-  
+<p align="center">___________________________________________________________________</p>
 
-### Best frameworks and main libraries for Python3:
+<h2 align="left"> :bar_chart: Overall Statistics</h2>
 
-| 
-|
-|  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=malikahafizap&hide_border=false&border_radius=5&card_width=800">
+</p>
 
+<p align="center">
+  <img width="600" height="200" alt="Malika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=malikahafizap&show_icons=true&hide_border=false" />
+</p>
 
-<!---
-malikahafizap/malikahafizap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikahafizap&layout=compact&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&line_height=27" alt="Malika's github lang stats"/>
+</p>
 
+<p align="center">___________________________________________________________________</p>
 
-
-
-
-- 👋 Hi, I’m @malikahafizap
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 <!---
 malikahafizap/malikahafizap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
