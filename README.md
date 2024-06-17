@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikahafizap&layout=compact&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&line_height=27" alt="Malika's github lang stats"/>
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikahafizap&layout=compact&show_icons=true&count_private=false&include_all_commits=true&hide_border=false&line_height=27" alt="Malika's github lang stats"/>
 </p>
 
 <p align="center">___________________________________________________________________</p>
