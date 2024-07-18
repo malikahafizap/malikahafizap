@@ -2,7 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=malikahafizap&style=for-the-badge&color=blue" alt=""/>
 </div>
 
-
 <h1 align="center">Hello there,<img src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/WavingHand.gif" width="50px" height="50"> I'm Malika :woman_technologist:</h1>
 
 <p align="center">___________________________________________________________________</p>
