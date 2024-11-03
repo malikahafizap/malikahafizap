@@ -7,9 +7,9 @@
 - 💼 **I’m looking to collaborate on**: Open-source data science and machine learning projects, particularly in areas like predictive modeling, sentiment analysis, and data visualization. Let’s work together to turn data into insights!
 
 - 📫 **How to reach me**:  
-   - **Email**: [mpasha2@csudh.edu](mailto:malikahafizap@gmail.com)  
+   - **Email**: [malikahafizap@gmail.com](mailto:malikahafizap@gmail.com)  
    - **LinkedIn**: [linkedin.com/in/malikahafizap](https://linkedin.com/in/malikahafizap)  
-   - **GitHub**: [github.com/malika-hafizap](https://github.com/malikahafizap)  
+   - **GitHub**: [github.com/malikahafizap](https://github.com/malikahafizap)  
 
 - 😄 **Pronouns**: She/Her
 
